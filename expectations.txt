@@ -1,1 +1,3 @@
 I expect to learn how to develop a website by utilizing MERN stack.
+
+Gray Gonzales: Yes, I agree.
